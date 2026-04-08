@@ -1,0 +1,47 @@
+[
+  {
+    "_id": "VID_001",
+    "titol": "Com fer un diagrama E/R",
+    "descripcio": "Repàs de com dissenyar entitats i relacions fortes i febles.",
+    "tipus": "Problema",
+    "creador": { "niu_dni": "1111111", "nom": "Laura Rivera" },
+    "assignatura": { "id": "A1", "nom": "Bases de Dades no Relacionals" },
+    "id_problema_resolt": null
+  },
+  {
+    "_id": "VID_002",
+    "titol": "Solució al diagrama E/R",
+    "descripcio": "Proposta de solució aplicant l'herència entre entitats.",
+    "tipus": "Solució",
+    "creador": { "niu_dni": "3333333", "nom": "Pere Gómez" },
+    "assignatura": null,
+    "id_problema_resolt": "VID_001"
+  },
+  {
+    "_id": "VID_003",
+    "titol": "Problema de cerca A*",
+    "descripcio": "Calculeu la ruta òptima utilitzant l'algorisme A*.",
+    "tipus": "Problema",
+    "creador": { "niu_dni": "1111111", "nom": "Laura Rivera" },
+    "assignatura": { "id": "A2", "nom": "Intel·ligència Artificial" },
+    "id_problema_resolt": null
+  },
+  {
+    "_id": "VID_004",
+    "titol": "Derivada d'una funció composta",
+    "descripcio": "Plantejament d'un problema utilitzant la regla de la cadena.",
+    "tipus": "Problema",
+    "creador": { "niu_dni": "2222222", "nom": "Albert Casals" },
+    "assignatura": { "id": "A3", "nom": "Càlcul" },
+    "id_problema_resolt": null
+  },
+  {
+    "_id": "VID_005",
+    "titol": "La meva solució a la derivada",
+    "descripcio": "Aquí mostro com he aplicat la regla de la cadena pas a pas.",
+    "tipus": "Solució",
+    "creador": { "niu_dni": "4444444", "nom": "Maria Soler" },
+    "assignatura": null,
+    "id_problema_resolt": "VID_004"
+  }
+]

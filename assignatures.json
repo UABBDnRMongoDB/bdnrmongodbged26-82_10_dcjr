@@ -1,0 +1,32 @@
+[
+  {
+    "_id": "A1",
+    "nom": "Bases de Dades no Relacionals",
+    "credits": 6,
+    "descripcio": "Assignatura de 3r curs que tracta sobre models NoSQL."
+  },
+  {
+    "_id": "A2",
+    "nom": "Intel·ligència Artificial",
+    "credits": 6,
+    "descripcio": "Fonaments d'IA, cerca i aprenentatge automàtic."
+  },
+  {
+    "_id": "A3",
+    "nom": "Càlcul",
+    "credits": 8,
+    "descripcio": "Límits, derivades i integrals per a enginyeria."
+  },
+  {
+    "_id": "A4",
+    "nom": "Programació Avançada",
+    "credits": 6,
+    "descripcio": "Estructures de dades i algorísmia en Python."
+  },
+  {
+    "_id": "A5",
+    "nom": "Xarxes de Computadors",
+    "credits": 6,
+    "descripcio": "Protocols d'Internet, capes OSI i TCP/IP."
+  }
+]

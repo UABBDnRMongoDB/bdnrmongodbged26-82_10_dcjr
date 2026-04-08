@@ -1,0 +1,54 @@
+[
+  {
+    "_id": "1111111",
+    "tipus": "Professor",
+    "nom": "Laura Rivera",
+    "correu": "laura.rivera@uab.cat",
+    "contrasenya": "pwd123",
+    "pais": "Espanya",
+    "especialitat": "Bases de Dades i IA",
+    "assignatures_expertes": [
+      { "id_assignatura": "A1", "nom": "Bases de Dades no Relacionals" },
+      { "id_assignatura": "A2", "nom": "Intel·ligència Artificial" }
+    ]
+  },
+  {
+    "_id": "2222222",
+    "tipus": "Professor",
+    "nom": "Albert Casals",
+    "correu": "albert.casals@uab.cat",
+    "contrasenya": "pwd456",
+    "pais": "Andorra",
+    "especialitat": "Matemàtiques",
+    "assignatures_expertes": [
+      { "id_assignatura": "A3", "nom": "Càlcul" }
+    ]
+  },
+  {
+    "_id": "3333333",
+    "tipus": "Estudiant",
+    "nom": "Pere Gómez",
+    "correu": "pere.gomez@uab.cat",
+    "contrasenya": "estud1",
+    "pais": "Espanya",
+    "curs": "3r"
+  },
+  {
+    "_id": "4444444",
+    "tipus": "Estudiant",
+    "nom": "Maria Soler",
+    "correu": "maria.soler@uab.cat",
+    "contrasenya": "estud2",
+    "pais": "França",
+    "curs": "2n"
+  },
+  {
+    "_id": "5555555",
+    "tipus": "Estudiant",
+    "nom": "Joan Font",
+    "correu": "joan.font@uab.cat",
+    "contrasenya": "estud3",
+    "pais": "Espanya",
+    "curs": "1r"
+  }
+]
