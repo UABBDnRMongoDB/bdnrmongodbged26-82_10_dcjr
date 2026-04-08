@@ -6,10 +6,11 @@
     "correu": "laura.rivera@uab.cat",
     "contrasenya": "pwd123",
     "pais": "Espanya",
-    "especialitat": "Bases de Dades i IA",
+    "especialitat": "Bases de Dades i Cerca d'Informació",
     "assignatures_expertes": [
-      { "id_assignatura": "A1", "nom": "Bases de Dades no Relacionals" },
-      { "id_assignatura": "A2", "nom": "Intel·ligència Artificial" }
+      { "id_assignatura": "A2", "nom": "Bases de Dades Relacionals" },
+      { "id_assignatura": "A4", "nom": "Anàlisi de Grafs i Cerca d’Informació" },
+      { "id_assignatura": "A8", "nom": "Bases de Dades No Relacionals" }
     ]
   },
   {
@@ -19,9 +20,37 @@
     "correu": "albert.casals@uab.cat",
     "contrasenya": "pwd456",
     "pais": "Andorra",
-    "especialitat": "Matemàtiques",
+    "especialitat": "Algorísmia i Matemàtiques",
     "assignatures_expertes": [
-      { "id_assignatura": "A3", "nom": "Càlcul" }
+      { "id_assignatura": "A1", "nom": "Estructures de Dades" },
+      { "id_assignatura": "A3", "nom": "Descripcions Probabilístiques i Estadístiques" },
+      { "id_assignatura": "A7", "nom": "Disseny d’Algoritmes" }
+    ]
+  },
+  {
+    "_id": "6666666",
+    "tipus": "Professor",
+    "nom": "Núria Pons",
+    "correu": "nuria.pons@uab.cat",
+    "contrasenya": "pwd789",
+    "pais": "Espanya",
+    "especialitat": "Sistemes i Computació d'Altes Prestacions",
+    "assignatures_expertes": [
+      { "id_assignatura": "A5", "nom": "Enginyeria del Rendiment" },
+      { "id_assignatura": "A9", "nom": "Programació Paral·lela" },
+      { "id_assignatura": "A10", "nom": "Processament de Senyal, Imatge i Vídeo" }
+    ]
+  },
+  {
+    "_id": "7777777",
+    "tipus": "Professor",
+    "nom": "Marc Vidal",
+    "correu": "marc.vidal@uab.cat",
+    "contrasenya": "pwd321",
+    "pais": "Espanya",
+    "especialitat": "Teoria de la Informació",
+    "assignatures_expertes": [
+      { "id_assignatura": "A6", "nom": "Teoria de la Informació i de la Codificació" }
     ]
   },
   {
@@ -50,5 +79,32 @@
     "contrasenya": "estud3",
     "pais": "Espanya",
     "curs": "1r"
+  },
+  {
+    "_id": "8888888",
+    "tipus": "Estudiant",
+    "nom": "Clara Bosch",
+    "correu": "clara.bosch@uab.cat",
+    "contrasenya": "estud4",
+    "pais": "Itàlia",
+    "curs": "4t"
+  },
+  {
+    "_id": "9999999",
+    "tipus": "Estudiant",
+    "nom": "Nil Romero",
+    "correu": "nil.romero@uab.cat",
+    "contrasenya": "estud5",
+    "pais": "Espanya",
+    "curs": "3r"
+  },
+  {
+    "_id": "1010101",
+    "tipus": "Estudiant",
+    "nom": "Laia Puig",
+    "correu": "laia.puig@uab.cat",
+    "contrasenya": "estud6",
+    "pais": "Portugal",
+    "curs": "2n"
   }
 ]

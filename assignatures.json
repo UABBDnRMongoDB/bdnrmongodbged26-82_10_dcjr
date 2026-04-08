@@ -1,32 +1,62 @@
 [
   {
     "_id": "A1",
-    "nom": "Bases de Dades no Relacionals",
+    "nom": "Estructures de Dades",
     "credits": 6,
-    "descripcio": "Assignatura de 3r curs que tracta sobre models NoSQL."
+    "descripcio": "Assignatura de 1r semestre centrada en estructures de dades lineals i no lineals."
   },
   {
     "_id": "A2",
-    "nom": "Intel·ligència Artificial",
+    "nom": "Bases de Dades Relacionals",
     "credits": 6,
-    "descripcio": "Fonaments d'IA, cerca i aprenentatge automàtic."
+    "descripcio": "Model relacional, SQL, normalització i disseny de bases de dades."
   },
   {
     "_id": "A3",
-    "nom": "Càlcul",
-    "credits": 8,
-    "descripcio": "Límits, derivades i integrals per a enginyeria."
+    "nom": "Descripcions Probabilístiques i Estadístiques",
+    "credits": 6,
+    "descripcio": "Fonaments de probabilitat i estadística aplicats a l'enginyeria."
   },
   {
     "_id": "A4",
-    "nom": "Programació Avançada",
+    "nom": "Anàlisi de Grafs i Cerca d’Informació",
     "credits": 6,
-    "descripcio": "Estructures de dades i algorísmia en Python."
+    "descripcio": "Estudi de grafs, recorreguts i tècniques de cerca d’informació."
   },
   {
     "_id": "A5",
-    "nom": "Xarxes de Computadors",
+    "nom": "Enginyeria del Rendiment",
     "credits": 6,
-    "descripcio": "Protocols d'Internet, capes OSI i TCP/IP."
+    "descripcio": "Mètriques, avaluació i optimització del rendiment de sistemes."
+  },
+  {
+    "_id": "A6",
+    "nom": "Teoria de la Informació i de la Codificació",
+    "credits": 6,
+    "descripcio": "Conceptes d’entropia, codificació i transmissió d’informació."
+  },
+  {
+    "_id": "A7",
+    "nom": "Disseny d’Algoritmes",
+    "credits": 6,
+    "descripcio": "Estratègies de disseny i anàlisi d’algoritmes eficients."
+  },
+  {
+    "_id": "A8",
+    "nom": "Bases de Dades No Relacionals",
+    "credits": 6,
+    "descripcio": "Models NoSQL, disseny orientat a documents i consultes avançades."
+  },
+  {
+    "_id": "A9",
+    "nom": "Programació Paral·lela",
+    "credits": 6,
+    "descripcio": "Programació concurrent i paral·lela per millorar el rendiment."
+  },
+  {
+    "_id": "A10",
+    "nom": "Processament de Senyal, Imatge i Vídeo",
+    "credits": 6,
+    "descripcio": "Tècniques bàsiques de processament digital de senyal i imatge."
   }
 ]
