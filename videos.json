@@ -4,8 +4,14 @@
     "titol": "Problema de piles i cues",
     "descripcio": "Exercici sobre l'ús de piles i cues en estructures de dades.",
     "tipus": "Problema",
-    "creador": { "niu_dni": "2222222", "nom": "Albert Casals" },
-    "assignatura": { "id": "A1", "nom": "Estructures de Dades" },
+    "creador": {
+      "niu_dni": "2222222B",
+      "nom": "Albert Casals"
+    },
+    "assignatura": {
+      "id": "A1",
+      "nom": "Estructures de Dades"
+    },
     "id_problema_resolt": null
   },
   {
@@ -13,7 +19,10 @@
     "titol": "Solució al problema de piles i cues",
     "descripcio": "Resolució detallada de l'exercici amb exemples.",
     "tipus": "Solució",
-    "creador": { "niu_dni": "3333333", "nom": "Pere Gómez" },
+    "creador": {
+      "niu_dni": "3333333C",
+      "nom": "Pere Gómez"
+    },
     "assignatura": null,
     "id_problema_resolt": "VID_001"
   },
@@ -22,8 +31,14 @@
     "titol": "Problema de normalització",
     "descripcio": "Exercici sobre dependències funcionals i normalització.",
     "tipus": "Problema",
-    "creador": { "niu_dni": "1111111", "nom": "Laura Rivera" },
-    "assignatura": { "id": "A2", "nom": "Bases de Dades Relacionals" },
+    "creador": {
+      "niu_dni": "1111111A",
+      "nom": "Laura Rivera"
+    },
+    "assignatura": {
+      "id": "A2",
+      "nom": "Bases de Dades Relacionals"
+    },
     "id_problema_resolt": null
   },
   {
@@ -31,7 +46,10 @@
     "titol": "Solució a la normalització",
     "descripcio": "Aplicació de 1FN, 2FN i 3FN pas a pas.",
     "tipus": "Solució",
-    "creador": { "niu_dni": "4444444", "nom": "Maria Soler" },
+    "creador": {
+      "niu_dni": "4444444D",
+      "nom": "Maria Soler"
+    },
     "assignatura": null,
     "id_problema_resolt": "VID_003"
   },
@@ -40,8 +58,14 @@
     "titol": "Problema de probabilitat condicionada",
     "descripcio": "Exercici sobre probabilitat condicionada i variables aleatòries.",
     "tipus": "Problema",
-    "creador": { "niu_dni": "2222222", "nom": "Albert Casals" },
-    "assignatura": { "id": "A3", "nom": "Descripcions Probabilístiques i Estadístiques" },
+    "creador": {
+      "niu_dni": "2222222B",
+      "nom": "Albert Casals"
+    },
+    "assignatura": {
+      "id": "A3",
+      "nom": "Descripcions Probabilístiques i Estadístiques"
+    },
     "id_problema_resolt": null
   },
   {
@@ -49,7 +73,10 @@
     "titol": "Solució a la probabilitat condicionada",
     "descripcio": "Resolució comentada amb càlcul de probabilitats.",
     "tipus": "Solució",
-    "creador": { "niu_dni": "5555555", "nom": "Joan Font" },
+    "creador": {
+      "niu_dni": "5555555E",
+      "nom": "Joan Font"
+    },
     "assignatura": null,
     "id_problema_resolt": "VID_005"
   },
@@ -58,8 +85,14 @@
     "titol": "Problema de recorregut en grafs",
     "descripcio": "Trobar el camí òptim en un graf utilitzant cerca.",
     "tipus": "Problema",
-    "creador": { "niu_dni": "1111111", "nom": "Laura Rivera" },
-    "assignatura": { "id": "A4", "nom": "Anàlisi de Grafs i Cerca d’Informació" },
+    "creador": {
+      "niu_dni": "1111111A",
+      "nom": "Laura Rivera"
+    },
+    "assignatura": {
+      "id": "A4",
+      "nom": "Anàlisi de Grafs i Cerca d’Informació"
+    },
     "id_problema_resolt": null
   },
   {
@@ -67,7 +100,10 @@
     "titol": "Solució al recorregut en grafs",
     "descripcio": "Explicació del recorregut i de l'estratègia de cerca utilitzada.",
     "tipus": "Solució",
-    "creador": { "niu_dni": "8888888", "nom": "Clara Bosch" },
+    "creador": {
+      "niu_dni": "8888888H",
+      "nom": "Clara Bosch"
+    },
     "assignatura": null,
     "id_problema_resolt": "VID_007"
   },
@@ -76,8 +112,14 @@
     "titol": "Problema d'avaluació de rendiment",
     "descripcio": "Exercici sobre throughput, latència i càrrega.",
     "tipus": "Problema",
-    "creador": { "niu_dni": "6666666", "nom": "Núria Pons" },
-    "assignatura": { "id": "A5", "nom": "Enginyeria del Rendiment" },
+    "creador": {
+      "niu_dni": "6666666F",
+      "nom": "Núria Pons"
+    },
+    "assignatura": {
+      "id": "A5",
+      "nom": "Enginyeria del Rendiment"
+    },
     "id_problema_resolt": null
   },
   {
@@ -85,7 +127,10 @@
     "titol": "Solució a l'avaluació de rendiment",
     "descripcio": "Anàlisi dels resultats i interpretació de mètriques.",
     "tipus": "Solució",
-    "creador": { "niu_dni": "3333333", "nom": "Pere Gómez" },
+    "creador": {
+      "niu_dni": "3333333C",
+      "nom": "Pere Gómez"
+    },
     "assignatura": null,
     "id_problema_resolt": "VID_009"
   },
@@ -94,8 +139,14 @@
     "titol": "Problema d'entropia",
     "descripcio": "Càlcul de l'entropia d'una font d'informació.",
     "tipus": "Problema",
-    "creador": { "niu_dni": "7777777", "nom": "Marc Vidal" },
-    "assignatura": { "id": "A6", "nom": "Teoria de la Informació i de la Codificació" },
+    "creador": {
+      "niu_dni": "7777777G",
+      "nom": "Marc Vidal"
+    },
+    "assignatura": {
+      "id": "A6",
+      "nom": "Teoria de la Informació i de la Codificació"
+    },
     "id_problema_resolt": null
   },
   {
@@ -103,7 +154,10 @@
     "titol": "Solució al problema d'entropia",
     "descripcio": "Resolució pas a pas del càlcul d'entropia.",
     "tipus": "Solució",
-    "creador": { "niu_dni": "4444444", "nom": "Maria Soler" },
+    "creador": {
+      "niu_dni": "4444444D",
+      "nom": "Maria Soler"
+    },
     "assignatura": null,
     "id_problema_resolt": "VID_011"
   },
@@ -112,8 +166,14 @@
     "titol": "Problema de divide and conquer",
     "descripcio": "Exercici sobre disseny d'algoritmes divide and conquer.",
     "tipus": "Problema",
-    "creador": { "niu_dni": "2222222", "nom": "Albert Casals" },
-    "assignatura": { "id": "A7", "nom": "Disseny d’Algoritmes" },
+    "creador": {
+      "niu_dni": "2222222B",
+      "nom": "Albert Casals"
+    },
+    "assignatura": {
+      "id": "A7",
+      "nom": "Disseny d’Algoritmes"
+    },
     "id_problema_resolt": null
   },
   {
@@ -121,7 +181,10 @@
     "titol": "Solució a divide and conquer",
     "descripcio": "Desenvolupament de la solució i anàlisi de complexitat.",
     "tipus": "Solució",
-    "creador": { "niu_dni": "5555555", "nom": "Joan Font" },
+    "creador": {
+      "niu_dni": "5555555E",
+      "nom": "Joan Font"
+    },
     "assignatura": null,
     "id_problema_resolt": "VID_013"
   },
@@ -130,8 +193,14 @@
     "titol": "Problema de modelatge en MongoDB",
     "descripcio": "Plantejament d'un cas per modelar dades en MongoDB.",
     "tipus": "Problema",
-    "creador": { "niu_dni": "1111111", "nom": "Laura Rivera" },
-    "assignatura": { "id": "A8", "nom": "Bases de Dades No Relacionals" },
+    "creador": {
+      "niu_dni": "1111111A",
+      "nom": "Laura Rivera"
+    },
+    "assignatura": {
+      "id": "A8",
+      "nom": "Bases de Dades No Relacionals"
+    },
     "id_problema_resolt": null
   },
   {
@@ -139,7 +208,10 @@
     "titol": "Solució al modelatge en MongoDB",
     "descripcio": "Explicació del model documental i de les referències.",
     "tipus": "Solució",
-    "creador": { "niu_dni": "8888888", "nom": "Clara Bosch" },
+    "creador": {
+      "niu_dni": "8888888H",
+      "nom": "Clara Bosch"
+    },
     "assignatura": null,
     "id_problema_resolt": "VID_015"
   },
@@ -148,8 +220,14 @@
     "titol": "Problema de sincronització de fils",
     "descripcio": "Exercici sobre concurrència i sincronització.",
     "tipus": "Problema",
-    "creador": { "niu_dni": "6666666", "nom": "Núria Pons" },
-    "assignatura": { "id": "A9", "nom": "Programació Paral·lela" },
+    "creador": {
+      "niu_dni": "6666666F",
+      "nom": "Núria Pons"
+    },
+    "assignatura": {
+      "id": "A9",
+      "nom": "Programació Paral·lela"
+    },
     "id_problema_resolt": null
   },
   {
@@ -157,7 +235,10 @@
     "titol": "Solució a la sincronització de fils",
     "descripcio": "Resolució del problema de concurrència amb exemples.",
     "tipus": "Solució",
-    "creador": { "niu_dni": "3333333", "nom": "Pere Gómez" },
+    "creador": {
+      "niu_dni": "3333333C",
+      "nom": "Pere Gómez"
+    },
     "assignatura": null,
     "id_problema_resolt": "VID_017"
   },
@@ -166,8 +247,14 @@
     "titol": "Problema de filtratge d'imatge",
     "descripcio": "Exercici sobre filtratge digital d'imatges.",
     "tipus": "Problema",
-    "creador": { "niu_dni": "6666666", "nom": "Núria Pons" },
-    "assignatura": { "id": "A10", "nom": "Processament de Senyal, Imatge i Vídeo" },
+    "creador": {
+      "niu_dni": "6666666F",
+      "nom": "Núria Pons"
+    },
+    "assignatura": {
+      "id": "A10",
+      "nom": "Processament de Senyal, Imatge i Vídeo"
+    },
     "id_problema_resolt": null
   },
   {
@@ -175,7 +262,10 @@
     "titol": "Solució al filtratge d'imatge",
     "descripcio": "Aplicació d'un filtre i discussió dels resultats.",
     "tipus": "Solució",
-    "creador": { "niu_dni": "4444444", "nom": "Maria Soler" },
+    "creador": {
+      "niu_dni": "4444444D",
+      "nom": "Maria Soler"
+    },
     "assignatura": null,
     "id_problema_resolt": "VID_019"
   }

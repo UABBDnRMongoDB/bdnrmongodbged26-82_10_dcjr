@@ -1,6 +1,6 @@
 [
   {
-    "_id": "1111111",
+    "_dni": "1111111A",
     "tipus": "Professor",
     "nom": "Laura Rivera",
     "correu": "laura.rivera@uab.cat",
@@ -8,13 +8,22 @@
     "pais": "Espanya",
     "especialitat": "Bases de Dades i Cerca d'Informació",
     "assignatures_expertes": [
-      { "id_assignatura": "A2", "nom": "Bases de Dades Relacionals" },
-      { "id_assignatura": "A4", "nom": "Anàlisi de Grafs i Cerca d’Informació" },
-      { "id_assignatura": "A8", "nom": "Bases de Dades No Relacionals" }
+      {
+        "id_assignatura": "A2",
+        "nom": "Bases de Dades Relacionals"
+      },
+      {
+        "id_assignatura": "A4",
+        "nom": "Anàlisi de Grafs i Cerca d’Informació"
+      },
+      {
+        "id_assignatura": "A8",
+        "nom": "Bases de Dades No Relacionals"
+      }
     ]
   },
   {
-    "_id": "2222222",
+    "_dni": "2222222B",
     "tipus": "Professor",
     "nom": "Albert Casals",
     "correu": "albert.casals@uab.cat",
@@ -22,13 +31,22 @@
     "pais": "Andorra",
     "especialitat": "Algorísmia i Matemàtiques",
     "assignatures_expertes": [
-      { "id_assignatura": "A1", "nom": "Estructures de Dades" },
-      { "id_assignatura": "A3", "nom": "Descripcions Probabilístiques i Estadístiques" },
-      { "id_assignatura": "A7", "nom": "Disseny d’Algoritmes" }
+      {
+        "id_assignatura": "A1",
+        "nom": "Estructures de Dades"
+      },
+      {
+        "id_assignatura": "A3",
+        "nom": "Descripcions Probabilístiques i Estadístiques"
+      },
+      {
+        "id_assignatura": "A7",
+        "nom": "Disseny d’Algoritmes"
+      }
     ]
   },
   {
-    "_id": "6666666",
+    "_dni": "6666666F",
     "tipus": "Professor",
     "nom": "Núria Pons",
     "correu": "nuria.pons@uab.cat",
@@ -36,13 +54,22 @@
     "pais": "Espanya",
     "especialitat": "Sistemes i Computació d'Altes Prestacions",
     "assignatures_expertes": [
-      { "id_assignatura": "A5", "nom": "Enginyeria del Rendiment" },
-      { "id_assignatura": "A9", "nom": "Programació Paral·lela" },
-      { "id_assignatura": "A10", "nom": "Processament de Senyal, Imatge i Vídeo" }
+      {
+        "id_assignatura": "A5",
+        "nom": "Enginyeria del Rendiment"
+      },
+      {
+        "id_assignatura": "A9",
+        "nom": "Programació Paral·lela"
+      },
+      {
+        "id_assignatura": "A10",
+        "nom": "Processament de Senyal, Imatge i Vídeo"
+      }
     ]
   },
   {
-    "_id": "7777777",
+    "_dni": "7777777G",
     "tipus": "Professor",
     "nom": "Marc Vidal",
     "correu": "marc.vidal@uab.cat",
@@ -50,11 +77,14 @@
     "pais": "Espanya",
     "especialitat": "Teoria de la Informació",
     "assignatures_expertes": [
-      { "id_assignatura": "A6", "nom": "Teoria de la Informació i de la Codificació" }
+      {
+        "id_assignatura": "A6",
+        "nom": "Teoria de la Informació i de la Codificació"
+      }
     ]
   },
   {
-    "_id": "3333333",
+    "_dni": "3333333C",
     "tipus": "Estudiant",
     "nom": "Pere Gómez",
     "correu": "pere.gomez@uab.cat",
@@ -63,7 +93,7 @@
     "curs": "3r"
   },
   {
-    "_id": "4444444",
+    "_dni": "4444444D",
     "tipus": "Estudiant",
     "nom": "Maria Soler",
     "correu": "maria.soler@uab.cat",
@@ -72,7 +102,7 @@
     "curs": "2n"
   },
   {
-    "_id": "5555555",
+    "_dni": "5555555E",
     "tipus": "Estudiant",
     "nom": "Joan Font",
     "correu": "joan.font@uab.cat",
@@ -81,7 +111,7 @@
     "curs": "1r"
   },
   {
-    "_id": "8888888",
+    "_dni": "8888888H",
     "tipus": "Estudiant",
     "nom": "Clara Bosch",
     "correu": "clara.bosch@uab.cat",
@@ -90,7 +120,7 @@
     "curs": "4t"
   },
   {
-    "_id": "9999999",
+    "_dni": "9999999I",
     "tipus": "Estudiant",
     "nom": "Nil Romero",
     "correu": "nil.romero@uab.cat",
@@ -99,7 +129,7 @@
     "curs": "3r"
   },
   {
-    "_id": "1010101",
+    "_dni": "1010101J",
     "tipus": "Estudiant",
     "nom": "Laia Puig",
     "correu": "laia.puig@uab.cat",
